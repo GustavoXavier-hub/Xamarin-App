@@ -1,0 +1,209 @@
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.dll
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\com.companyname.OficinaMVVM.apk
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\com.companyname.OficinaMVVM-Signed.apk
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.dll
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.nuget.stamp
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csprojAssemblyReference.cache
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res.flag
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csproj.CoreCompileInputs.cache
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csproj.CopyComplete
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.dll
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\bin\com.companyname.OficinaMVVM.apk
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\icon.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-hdpi\icon.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-xhdpi\icon.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-xxhdpi\icon.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\values\styles.xml
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\add.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\delete.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\oficinaapp.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\clientes.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\servicos.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\atendimentos.png
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\R.cs.flag
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\R.txt
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\uploadflags.txt
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Mono.Android.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Mono.Data.Tds.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Mono.Security.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\mscorlib.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Core.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Data.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.IO.Compression.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Net.Http.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Numerics.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Transactions.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Web.Services.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Xml.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\OficinaMVVM.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\OficinaMVVM.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\OficinaMVVM.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\OficinaMVVM.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\lupa.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.nuget.stamp
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csprojAssemblyReference.cache
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.dll
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\com.companyname.OficinaMVVM.apk
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\com.companyname.OficinaMVVM-Signed.apk
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.dll
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res.flag
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csproj.CoreCompileInputs.cache
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.csproj.CopyComplete
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.dll
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\OficinaMVVM.Android.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\bin\com.companyname.OficinaMVVM.apk
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\icon.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-hdpi\icon.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-xhdpi\icon.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable-xxhdpi\icon.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\values\styles.xml
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\add.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\delete.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\oficinaapp.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\clientes.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\servicos.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\atendimentos.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\res\drawable\lupa.png
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\R.cs.flag
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\R.txt
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\uploadflags.txt
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Mono.Android.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\mscorlib.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Core.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Xml.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Xml.Linq.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Net.Http.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Data.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Numerics.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Transactions.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.IO.Compression.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\System.Web.Services.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Mono.Security.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\OficinaMVVM.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\OficinaMVVM.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\OficinaMVVM.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\OficinaMVVM.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\bin\Debug\OficinaMVVM.Android.dll
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\OficinaMVVM.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.dll.mdb

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OficinaMVVM.Views.MasterPageView"
+             Title="Menu"
+             >
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="itensMenuListView" SeparatorVisibility="None" HasUnevenRows="true" ItemsSource="{Binding OpcoesMenu}"
+>
+                <ListView.Header>
+                    <Grid BackgroundColor="#03A9F4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="64"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="64"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="10"/>
+                        </Grid.RowDefinitions>
+
+                        <Image x:Name="imgOficina" Source="OficinaApp.png"  VerticalOptions="Start" Grid.Row="1" Grid.Column="1" HeightRequest="64"/>
+
+                        <StackLayout Grid.Row="1" Grid.Column="2" VerticalOptions="Center">
+                            <Label Text="Oficina MVVM" TextColor="White" FontAttributes="Bold" FontSize="20"/>
+                            <Label Text="Menu" TextColor="White" FontSize="Small"/>
+                            
+                            
+
+                        </StackLayout>
+                    </Grid>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="10"/>
+                                    <ColumnDefinition Width="32"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="5"/>
+                                    <RowDefinition Height="32"/>
+                                </Grid.RowDefinitions>
+                                <Image Source="{Binding IconSource}" HeightRequest="32" Grid.Column="1" Grid.Row="1"/>
+                                <Label Text="{Binding Title}" FontSize="Default" Grid.Column="2" Grid.Row="1" VerticalTextAlignment="Center"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+
+    </ContentPage.Content>
+</ContentPage>

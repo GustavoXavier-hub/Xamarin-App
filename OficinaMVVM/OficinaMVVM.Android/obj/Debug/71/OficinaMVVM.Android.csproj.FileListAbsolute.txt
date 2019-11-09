@@ -1,0 +1,2 @@
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\71\MonoAndroid,Version=v7.1.AssemblyAttributes.cs
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM.Android\obj\Debug\71\OficinaMVVM.Android.nuget.stamp
