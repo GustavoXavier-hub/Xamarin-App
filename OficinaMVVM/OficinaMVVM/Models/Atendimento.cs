@@ -7,7 +7,7 @@ namespace OficinaMVVM.Models
     public class Atendimento
     {
         public int? AtendimentoID { get; set; }
-        public int ClienteID { get; set; }
+        public int? ClienteID { get; set; }
         public string Veiculo { get; set; }
         public DateTime DataHoraChegada { get; set; }
         public DateTime DataHoraPrometida { get; set; }

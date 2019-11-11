@@ -423,23 +423,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
+    "C:\\Users\\Luiz\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj",
+      "projectUniqueName": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj",
       "projectName": "OficinaMVVM",
-      "projectPath": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\obj\\",
+      "projectPath": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj",
+      "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
+      "outputPath": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

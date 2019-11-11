@@ -21,7 +21,7 @@ namespace OficinaMVVM.ViewModels.Atendimentos
             get => atendimentoSelecionado2;
             set
             {
-                if (value != null)
+                if(value != null)
                 {
                     atendimentoSelecionado2 = value;
                     MessagingCenter.Send<Atendimento>(atendimentoSelecionado2, "MostrarOpcoes");
@@ -39,7 +39,7 @@ namespace OficinaMVVM.ViewModels.Atendimentos
         public ListagemViewModel()
         {
             Atendimentos = new ObservableCollection<Atendimento>();
-            RegistrarCommands();
+            RegistrarCommands();            
         }
 
         private void RegistrarCommands()
@@ -58,9 +58,25 @@ namespace OficinaMVVM.ViewModels.Atendimentos
         public async Task ObterAtendimentosAsync()
         {
             Atendimentos = await aService.GetAtendimentosAsync();
+
+            foreach (Atendimento a in Atendimentos)
+            {
+                if (a.ClienteID != null)
+                    a.Cliente = await CarregarCliente(a.ClienteID.Value);
+            }
+
             OnPropertyChanged(nameof(Atendimentos));
         }
 
+        public async Task ObterCliente(int clienteId)
+        {
+            AtendimentoSelecionado2.Cliente = await new Services.Clientes.ClienteService().GetClienteAsync(clienteId);            
+        }
+
+        public async Task<Cliente> CarregarCliente(int clienteId)
+        {
+            return await new Services.Clientes.ClienteService().GetClienteAsync(clienteId);            
+        }
 
 
         public async Task EliminarAtendimento(int atendimentoID)
@@ -83,11 +99,22 @@ namespace OficinaMVVM.ViewModels.Atendimentos
 
         public async Task RegistrarEntregaAsync(Atendimento atendimento)
         {
-            atendimento.DataHoraEntrega = DateTime.Now;
-            var indiceAtendimento = Atendimentos.IndexOf(await aService.PostAtendimentoAsync(atendimento));
+            atendimento.DataHoraEntrega = DateTime.Now;            
+            var indiceAtendimento = Atendimentos.IndexOf(atendimento);
+            await aService.PostAtendimentoAsync(atendimento);
             Atendimentos.RemoveAt(indiceAtendimento);
             Atendimentos.Insert(indiceAtendimento, atendimento);
         }
+
+        public async Task DesfazerEntregaAsync(Atendimento atendimento)
+        {
+            atendimento.DataHoraEntrega =  null;
+            var indiceAtendimento = Atendimentos.IndexOf(atendimento);
+            await aService.PostAtendimentoAsync(atendimento);
+            Atendimentos.RemoveAt(indiceAtendimento);
+            Atendimentos.Insert(indiceAtendimento, atendimento);
+        }
+
 
     }
 }

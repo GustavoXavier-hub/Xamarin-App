@@ -781,20 +781,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\Luiz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\OficinaMVVM.Android.csproj",
+      "projectUniqueName": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\OficinaMVVM.Android.csproj",
       "projectName": "OficinaMVVM.Android",
-      "projectPath": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\OficinaMVVM.Android.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\obj\\",
+      "projectPath": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\OficinaMVVM.Android.csproj",
+      "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
+      "outputPath": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -807,8 +807,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj": {
-              "projectPath": "D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj"
+            "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj": {
+              "projectPath": "D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM.csproj"
             }
           }
         }

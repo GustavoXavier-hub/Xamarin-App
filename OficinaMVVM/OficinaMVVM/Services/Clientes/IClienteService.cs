@@ -11,14 +11,17 @@ namespace OficinaMVVM.Services.Clientes
     {
         Task<ObservableCollection<Cliente>> GetClientesAsync();
 
+        Task<Cliente> GetClienteAsync(int clienteId);
+
         Task<Cliente> PostClienteAsync(Cliente c);
 
         Task<Cliente> PutClienteAsync(Cliente c);
 
         Task<Cliente> DeleteClienteAsync(int clienteId);
 
-        Task<ObservableCollection<Cliente>> GetClientesByNomeAsync(string values);
+        Task<ObservableCollection<Cliente>> GetClientesByNomeAsync(string value);
 
+        //Task<ObservableCollection<Cliente>> GetClientesByNomeAsync(string field, string value);
 
     }
 }

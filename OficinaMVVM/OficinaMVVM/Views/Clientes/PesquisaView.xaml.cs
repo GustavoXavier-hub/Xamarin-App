@@ -15,11 +15,7 @@ namespace OficinaMVVM.Views.Clientes
     public partial class PesquisaView : ContentPage
     {
         private PesquisaViewModel viewModel;
-
-        public static Cliente ClienteSelecionado { get; set;} 
-
-       
-
+        public static Cliente ClienteSelecionado { get; set; }
         public PesquisaView()
         {
             InitializeComponent();
@@ -31,19 +27,19 @@ namespace OficinaMVVM.Views.Clientes
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            MessagingCenter.Subscribe<Cliente>(this, "ClienteSelecionado", (Cliente) =>
-             {
-                 ClienteSelecionado = Cliente;
-                 Navigation.PopAsync();
-             });
-        
+            MessagingCenter.Subscribe<Cliente>(this, "ClienteSelecionado", (cliente) =>
+            {
+                ClienteSelecionado = cliente;
+                Navigation.PopAsync();
+            });
         }
-
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
             MessagingCenter.Unsubscribe<string>(this, "ClienteSelecionado");
         }
+
+
 
     }
 }

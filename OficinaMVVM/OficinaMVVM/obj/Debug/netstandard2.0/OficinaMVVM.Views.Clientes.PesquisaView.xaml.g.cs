@@ -11,8 +11,8 @@
 namespace OficinaMVVM.Views.Clientes {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVV" +
-        "M\\Views\\Clientes\\PesquisaView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\Views\\Cliente" +
+        "s\\PesquisaView.xaml")]
     public partial class PesquisaView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

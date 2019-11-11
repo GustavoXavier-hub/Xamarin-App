@@ -11,8 +11,8 @@
 namespace OficinaMVVM.Views.Clientes {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVV" +
-        "M\\Views\\Clientes\\ListagemView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Estudos\\Xamarin\\AulaPesquisa\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\Views\\Cliente" +
+        "s\\ListagemView.xaml")]
     public partial class ListagemView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

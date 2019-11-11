@@ -11,8 +11,7 @@
 namespace OficinaMVVM.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVV" +
-        "M\\Views\\MainPageView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Estudos\\Xamarin\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\Views\\MainPageView.xaml")]
     public partial class MainPageView : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

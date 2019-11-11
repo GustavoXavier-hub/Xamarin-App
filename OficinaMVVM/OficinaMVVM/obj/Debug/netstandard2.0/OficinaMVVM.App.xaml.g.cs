@@ -11,8 +11,7 @@
 namespace OficinaMVVM {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVV" +
-        "M\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Estudos\\Xamarin\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

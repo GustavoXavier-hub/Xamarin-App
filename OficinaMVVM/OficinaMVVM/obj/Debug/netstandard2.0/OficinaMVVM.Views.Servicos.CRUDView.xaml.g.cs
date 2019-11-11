@@ -11,8 +11,8 @@
 namespace OficinaMVVM.Views.Servicos {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\PM-Xamarin\\arq2\\PAM-II_2019-2\\Aula 04112019\\OficinaMVVM\\OficinaMVVM\\OficinaMVV" +
-        "M\\Views\\Servicos\\CRUDView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Estudos\\Xamarin\\OficinaMVVM\\OficinaMVVM\\OficinaMVVM\\Views\\Servicos\\CRUDView.xa" +
+        "ml")]
     public partial class CRUDView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

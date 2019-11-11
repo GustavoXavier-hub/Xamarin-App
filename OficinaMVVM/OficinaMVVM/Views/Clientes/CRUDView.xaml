@@ -13,12 +13,10 @@
                         <ViewCell>
                             <Button Text="Gravar Alterações" FontAttributes="Bold" 
                                     VerticalOptions="End" Command="{Binding GravarCommand}"/>
-                            
                         </ViewCell>
                     </TableSection>
                 </TableRoot>
             </TableView>
-            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

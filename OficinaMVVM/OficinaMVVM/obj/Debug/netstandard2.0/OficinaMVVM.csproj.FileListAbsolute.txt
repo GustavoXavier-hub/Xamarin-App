@@ -47,23 +47,4 @@ D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\ne
 D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\netstandard2.0\OficinaMVVM.dll
 D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\netstandard2.0\OficinaMVVM.pdb
 D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Atendimentos.CRUDView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.csprojAssemblyReference.cache
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.csproj.CoreCompileInputs.cache
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.App.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.MainPage.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Atendimentos.CRUDView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Atendimentos.ListagemView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Clientes.CRUDView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Clientes.ListagemView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Clientes.PesquisaView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.MainPageView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.MasterPageView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Servicos.CRUDView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Servicos.ListagemView.xaml.g.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.AssemblyInfoInputs.cache
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.AssemblyInfo.cs
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\netstandard2.0\OficinaMVVM.deps.json
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\netstandard2.0\OficinaMVVM.dll
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\bin\Debug\netstandard2.0\OficinaMVVM.pdb
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.dll
-D:\PM-Xamarin\arq2\PAM-II_2019-2\Aula 04112019\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.pdb
+D:\Estudos\Xamarin\AulaPesquisa\OficinaMVVM\OficinaMVVM\OficinaMVVM\obj\Debug\netstandard2.0\OficinaMVVM.Views.Clientes.PesquisaView.xaml.g.cs

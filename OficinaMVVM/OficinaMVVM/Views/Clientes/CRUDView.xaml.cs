@@ -30,9 +30,6 @@ namespace OficinaMVVM.Views.Clientes
         protected override void OnAppearing()
         {
             base.OnAppearing();
-
-            
-
             MessagingCenter.Subscribe<string>(this, "InformacaoCRUD", async (msg) =>
             { await DisplayAlert("Informação", msg, "OK"); });
         }

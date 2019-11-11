@@ -19,7 +19,6 @@ namespace OficinaMVVM.Views.Atendimentos
         {
             InitializeComponent();
         }
-         
 
         private CRUDViewModel crudViewModel;
         public CRUDView(Atendimento atendimento, string title) : this()
@@ -27,6 +26,7 @@ namespace OficinaMVVM.Views.Atendimentos
             this.crudViewModel = new CRUDViewModel(atendimento);
             this.BindingContext = this.crudViewModel;
             this.Title = title;
+            
         }
 
         protected override void OnAppearing()
@@ -44,6 +44,7 @@ namespace OficinaMVVM.Views.Atendimentos
                 await Navigation.PushAsync(new PesquisaView());
             });
         }
+
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
@@ -51,8 +52,12 @@ namespace OficinaMVVM.Views.Atendimentos
             PesquisaView.ClienteSelecionado = null;
 
             MessagingCenter.Unsubscribe<string>(this, "InformacaoCRUD");
-
             MessagingCenter.Unsubscribe<Atendimento>(this, "MostrarPesquisaCliente");
         }
+
+
+
+
+
     }
 }
